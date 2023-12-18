@@ -1,5 +1,5 @@
 // Replace 'YOUR_OPENWEATHER_API_KEY' with your OpenWeather API key
-const apiKey = 'YOUR_OPENWEATHER_API_KEY';
+const apiKey = '4e8fcb0b6af802134fbe131c569da922';
 const city = 'Patna';
 const telegramBotToken = 'YOUR_TELEGRAM_BOT_TOKEN';
 const chatId = 'YOUR_TELEGRAM_CHAT_ID';
